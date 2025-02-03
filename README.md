@@ -50,3 +50,7 @@ This is a simple chat assistant built with FastAPI and SQLite. The assistant res
 - Enable the assistant to update or modify the database.
 
 ## Deployment Link
+https://sql-chatbot-3yk4.onrender.com
+
+## Ask Query Using 
+https://sql-chatbot-3yk4.onrender.com/query?q=Your Query
