@@ -3,3 +3,4 @@ uvicorn
 mangum
 firebase-admin
 functions-framework
+spacy
